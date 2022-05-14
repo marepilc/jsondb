@@ -1,0 +1,68 @@
+[
+	{
+		"id": 1,
+		"category": "core",
+		"items": [
+			{
+				"id": 1,
+				"name": "createCanvas"
+			},
+			{
+				"id": 2,
+				"name": "selectCanvas"	
+			},
+			{
+				"id": 3,
+				"name": "resizeCanvas"	
+			},
+			{
+				"id": 4,
+				"name": "translate"	
+			}
+		]
+	},
+	{
+		"id": 2,
+		"category": "math",
+		"items": [
+			{
+				"id": 5,
+				"name": "round"
+			},
+			{
+				"id": 6,
+				"name": "round2str"	
+			},
+			{
+				"id": 7,
+				"name": "floor"	
+			},
+			{
+				"id": 8,
+				"name": "ceil"	
+			}
+		]
+	},
+	{
+		"id": 3,
+		"category": "drawing",
+		"items": [
+			{
+				"id": 9,
+				"name": "clear"
+			},
+			{
+				"id": 10,
+				"name": "background"	
+			},
+			{
+				"id": 11,
+				"name": "stroke"	
+			},
+			{
+				"id": 12,
+				"name": "strokeWidth"	
+			}
+		]
+	}
+]
